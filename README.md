@@ -56,7 +56,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/diegojadibot/SakuraBotLite-MD && cd SakuraBotLite-MD
+git clone https://github.com/andric14/SakuraBotLite-MD && cd SakuraBotLite-MD
 ```
 ```bash
 yarn install && npm install
